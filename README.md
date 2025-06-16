@@ -1,2 +1,2 @@
-# QA_Projects
+# QA_Project
 QA projects_Samples
