@@ -1,2 +1,2 @@
-# Same QA_Project
-QA projects_Samples
+# Sample QA_Project
+QA projects sample 
